@@ -1,4 +1,4 @@
-’Marketing Analytics for Telecommunications Company’ [One-Page Summary] [Presentation] [Tableau Workbook] [Tabluea Workbook](https://public.tableau.com/app/profile/roman.aguilera/viz/Workbook-CoopCapstone-SpatialDataAnalysis/ComparisonofPerformanceMetricsvs_BrandingMetrics-States)
+’Marketing Analytics for Telecommunications Company’ [One-Page Summary] [Presentation] [Tableau Workbook] [Tableau Workbook](https://public.tableau.com/app/profile/roman.aguilera/viz/Workbook-CoopCapstone-SpatialDataAnalysis/ComparisonofPerformanceMetricsvs_BrandingMetrics-States)
 
 Coop Careers - November 2025 - December 2025
 
