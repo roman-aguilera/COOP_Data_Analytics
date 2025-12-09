@@ -4,7 +4,7 @@ Coop Careers - November 2025 - December 2025
 
 Data Analytics Dashboards in Tableau for recommended modifications to marketing strategies. (Tableau)
 
-
+\
 
 ’New York City Restaurant Data’ [One-Page Summary] [Presentation] [Tableau Workbook]
 
